@@ -1,2 +1,2 @@
 # company-site
-Web site for Whynot tools
+Web site for Whynot tools company
